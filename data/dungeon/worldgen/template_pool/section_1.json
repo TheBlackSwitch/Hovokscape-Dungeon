@@ -1,0 +1,85 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/catwalk_1",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/catwalk_2",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/catwalk_3",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/catwalk_4",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/catwalk_5",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/foyer",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/room_1",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/room_2",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_2/greenery_1",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 1
+        }
+    ]
+}

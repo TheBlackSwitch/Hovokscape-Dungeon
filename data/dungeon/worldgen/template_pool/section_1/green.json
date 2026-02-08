@@ -110,6 +110,36 @@
                 "override_liquid_settings": "ignore_waterlogging"
             },
             "weight": 3
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/room_11",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 3
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/room_12",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 3
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "dungeon:section_1/room_13",
+                "projection": "rigid",
+                "processors": [],
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 3
         }
     ]
 }
